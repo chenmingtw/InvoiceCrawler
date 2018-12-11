@@ -5,4 +5,7 @@ Implement Python with the Scrapy to crawl invoice award number from Ministry of 
 Use these commands to crawl below. The data will be saved as a CSV file.  
 使用下列指令開始爬取。資料將儲存為 CSV 檔。
 
-    scrapy crawl invoice -o award_num.csv
+    $ scrapy crawl invoice -o award_num.csv
+
+## Crawled webpage 爬取的網頁
+<http://invoice.etax.nat.gov.tw/>
